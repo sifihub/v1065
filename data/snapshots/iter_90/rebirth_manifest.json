@@ -1,0 +1,22 @@
+{
+  "next_iteration": 91,
+  "new_repo_name": "v91",
+  "new_repo_url": "https://github.com/sifihub/v91",
+  "current_repo": "v1",
+  "snapshot_path": "data/snapshots/iter_90",
+  "memory_stats": {
+    "beliefs": 6,
+    "memories": 397,
+    "interactions": 395,
+    "lineage": 22,
+    "performance": 0,
+    "reflections": 0,
+    "working_memory": 6,
+    "selector_strategies": 0,
+    "source_assets": 8546,
+    "posted_sources": 44,
+    "engaged_sources": 1563
+  },
+  "ancestor_repo": "v1",
+  "private_repo": false
+}

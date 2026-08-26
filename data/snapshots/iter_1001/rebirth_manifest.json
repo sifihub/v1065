@@ -1,0 +1,22 @@
+{
+  "next_iteration": 1002,
+  "new_repo_name": "v1002",
+  "new_repo_url": "https://github.com/sifihub/v1002",
+  "current_repo": "v1000",
+  "snapshot_path": "data/snapshots/iter_1001",
+  "memory_stats": {
+    "beliefs": 6,
+    "memories": 410,
+    "interactions": 403,
+    "lineage": 23,
+    "performance": 0,
+    "reflections": 0,
+    "working_memory": 6,
+    "selector_strategies": 0,
+    "source_assets": 8668,
+    "posted_sources": 52,
+    "engaged_sources": 1595
+  },
+  "ancestor_repo": "v1000",
+  "private_repo": false
+}
